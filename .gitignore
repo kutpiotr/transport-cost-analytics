@@ -1,0 +1,28 @@
+# Power BI temp files
+*.pbix.bak
+*.pbix.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.code-workspace
+.idea/
+
+# SQL password files
+pgpass.conf
+*.env
+.env
+
+# Python (if any scripts added later)
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Logs
+*.log
